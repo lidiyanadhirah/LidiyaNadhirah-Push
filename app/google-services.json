@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1033201464891",
+    "firebase_url": "https://lidiya-push.firebaseio.com",
+    "project_id": "lidiya-push",
+    "storage_bucket": "lidiya-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033201464891:android:f2920581947f2cc0",
+        "android_client_info": {
+          "package_name": "com.example.a455l.lidiyanadhirah_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033201464891-1k4tfrm1m9pcbp62on79l3hakpeh8frb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrBo_ZZX2PM0c_QSLYOlJfMyDCFFoBggc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
